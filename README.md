@@ -20,10 +20,6 @@ npm install
 npm start
 ```
 
-## 🌐 Link para o projeto em produção
-
-https://mvp-mobile-development.vercel.app
-
 ## 🧑‍💻 Integrantes da Equipe
 - LUIDI DE SOUZA PIRES 
 
