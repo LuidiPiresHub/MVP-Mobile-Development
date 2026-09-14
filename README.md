@@ -5,20 +5,20 @@
 ## 🛠 Instruções de acesso ao MVP
 
 ```bash
-git clone git@github.com:LuidiPiresHub/MVP-Front-End-Development.git
+git clone git@github.com:LuidiPiresHub/MVP-Mobile-Development.git
 ```
 
 ### Abra o index.html
 
 ## 🌐 Link para o projeto em produção
 
-https://mvp-front-end-development.vercel.app
+https://mvp-mobile-development.vercel.app
 
 ## 🧑‍💻 Integrantes da Equipe
-- DOUGLAS BERNARD MARTINS TEIXEIRA DA SILVA
-- LUIDI DE SOUZA PIRES 
-- MARIANA MARTINS DA SILVA
-- MARIANA OLIVEIRA LOPES
+- LUIDI DE SOUZA PIRES
+- GUSTAVO MOREIRA DANTAS
+- FELIPE DE FARIA SILVA
+- RÔMULO THADEU LIMA AZEREDO
 
 ## 💡 Objetivo
 
@@ -130,4 +130,4 @@ mage-verde-online/
 
 ---
 
-**Desenvolvido como trabalho acadêmico para a disciplina de Desenvolvimento Web Front-End.**
+**Desenvolvido como trabalho acadêmico para a disciplina de MVP MOBILE DEVELOPMENT.**
