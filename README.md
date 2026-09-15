@@ -47,59 +47,66 @@ A cidade de Magé conta com locais de preservação ambiental como o Parque Natu
 
 ```
 mage-verde-online/
-├── index.html
-├── login.html
-├── admin.html
-├── aboutUs.html
-├── contact.html
-├── trilhas.html
-├── serra-dos-orgaos.html
-├── barao-de-maua.html
-├── downhill.html
-├── cross-training.html
-├── veu-da-noiva.html
-├── cachoeira-de-andorinhas.html
-├── cachoeira-dos-monjolos.html
-├── css/
-│   ├── index.css
-│   ├── login.css
-│   ├── admin.css
-│   ├── aboutUs.css
-│   ├── contact.css
-│   ├── attractions.css
-├── js/
-│   └── login.js
-├── assets/
-│   └── images/
-│       ├── banner.jpg
-│       ├── cachoeira-andorinhas.jpeg
-│       ├── cachoeira-monjolos.jpeg
-│       ├── cachoeira-monjolos2.png
-│       ├── cachoeira-monjolos3.png
-│       ├── cross-training1.png
-│       ├── cross-training2.png
-│       ├── downhill.jpg
-│       ├── evento.jpeg
-│       ├── logo.png
-│       ├── parque-barao.webp
-│       ├── serra-dos-orgaos.png
-│       ├── trilha-monjolos.png
-│       ├── trilha-monjolos2.png
-│       ├── trilhas.jpeg
-│       ├── veu-da-noiva.jpeg
-│       ├── veu-da-noiva2.png
-│       ├── veu-da-noiva3.png
 ├── public/
+│   ├── index.html
+│   ├── login.html
+│   ├── admin.html
+│   ├── aboutUs.html
+│   ├── contact.html
+│   ├── trilhas.html
+│   ├── serra-dos-orgaos.html
+│   ├── barao-de-maua.html
+│   ├── downhill.html
+│   ├── cross-training.html
+│   ├── veu-da-noiva.html
+│   ├── cachoeira-de-andorinhas.html
+│   ├── cachoeira-dos-monjolos.html
+│   │
+│   ├── css/
+│   │   ├── index.css
+│   │   ├── login.css
+│   │   ├── admin.css
+│   │   ├── aboutUs.css
+│   │   ├── contact.css
+│   │   └── attractions.css
+│   │
+│   ├── js/
+│   │   └── login.js
+│   │
+│   ├── assets/
+│   │   └── images/
+│   │       ├── banner.jpg
+│   │       ├── cachoeira-andorinhas.jpeg
+│   │       ├── cachoeira-monjolos.jpeg
+│   │       ├── cachoeira-monjolos2.png
+│   │       ├── cachoeira-monjolos3.png
+│   │       ├── cross-training1.png
+│   │       ├── cross-training2.png
+│   │       ├── downhill.jpg
+│   │       ├── evento.jpeg
+│   │       ├── logo.png
+│   │       ├── parque-barao.webp
+│   │       ├── serra-dos-orgaos.png
+│   │       ├── trilha-monjolos.png
+│   │       ├── trilha-monjolos2.png
+│   │       ├── trilhas.jpeg
+│   │       ├── veu-da-noiva.jpeg
+│   │       ├── veu-da-noiva2.png
+│   │       └── veu-da-noiva3.png
+│   │
 │   └── favicon.ico
+│
 ├── prototipos/
 │   ├── prototipo-administrativo.png
 │   ├── prototipo-detalhes1.png
 │   ├── prototipo-detalhes2.png
 │   ├── prototipo-detalhes3.png
 │   └── prototipo-home.png
+│
 ├── requisitos/
-│   └──Requisitos-MVP-Magé-Verde-Online.xlsx
-├── README.md
+│   └── Requisitos-MVP-Magé-Verde-Online.xlsx
+│
+└── README.md
 ```
 
 ## 🧑‍🤝‍🧑 Público-alvo
